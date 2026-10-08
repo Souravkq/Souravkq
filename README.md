@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hey, I'm Sourav
 
-<!--
-**Souravkq/Souravkq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💻 CSE Student | 🤖 AI/ML Explorer | 🚀 Builder | 🧠 Hackathon Enthusiast
 
-Here are some ideas to get you started:
+I'm a Computer Science & Engineering student who enjoys learning by
+**building, experimenting, breaking things, and rebuilding them better.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently exploring the intersection of:
+
+- 🤖 Artificial Intelligence & Machine Learning
+- 📊 Data Science & Data Analysis
+- 👁️ Computer Vision
+- 🌐 Full-Stack Development
+- 🔧 Hardware, IoT & Embedded Systems
+- 🚀 Hackathons & Innovation
+
+> **"Crash it. Understand it. Build it."**
+
+---
+
+## 🧑‍💻 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 🤖 Currently exploring **AI/ML & Data Science**
+- 🔧 Interested in combining **software + hardware**
+- 🚀 Love building projects around real-world problems
+- 🏆 **YIP 5.0 District-Level Winner**
+- 🌱 **TinkerHub Learning Coordinator — IET Calicut**
+- 💡 Interested in hackathons, open source and technology communities
+- 🧪 Learning mainly through projects, experiments and hands-on work
+
+---
+
+## 🚀 What I'm Currently Working On
+
+```text
+AI / ML
+████████████████░░░░  Exploring
+
+Data Science
+██████████████░░░░░░  Learning
+
+Computer Vision
+██████████████░░░░░░  Building
+
+Full Stack
+███████████░░░░░░░░░  Learning
+
+Hardware / IoT
+█████████░░░░░░░░░░░  Exploring
